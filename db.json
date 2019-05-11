@@ -1,0 +1,25 @@
+{
+  "professors": [
+    { "id": 1, "title": "Clark" },
+    { "id": 2, "title": "Thomas" },
+    { "id": 3, "title": "Grubbs" },
+    { "id": 4, "title": "Agard" }
+  ],
+  "students": [
+    { "id": 1, "body": "Garrett Foister", "profId": 1 },
+    { "id": 2, "body": "Garrett Foister", "profId": 2 },
+    { "id": 3, "body": "Garrett Foister", "profId": 3 },
+    { "id": 4, "body": "Garrett Foister", "profId": 4 },
+    { "id": 5, "body": "John Smith", "profId": 1 },
+    { "id": 6, "body": "James Smith", "profId": 1 },
+    { "id": 7, "body": "Sally Smith", "profId": 2 },
+    { "id": 8, "body": "Suzy Smith", "profId": 2 },
+    { "id": 9, "body": "Larry Smith", "profId": 3 },
+    { "id": 10, "body": "Karen Smith", "profId": 4 },
+    { "id": 11, "body": "Katie Foister", "profId": 4 },
+    { "id": 12, "body": "Jeff Smith", "profId": 4 },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
