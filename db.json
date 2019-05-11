@@ -17,7 +17,7 @@
     { "id": 9, "body": "Larry Smith", "profId": 3 },
     { "id": 10, "body": "Karen Smith", "profId": 4 },
     { "id": 11, "body": "Katie Foister", "profId": 4 },
-    { "id": 12, "body": "Jeff Smith", "profId": 4 },
+    { "id": 12, "body": "Jeff Smith", "profId": 4 }
   ],
   "profile": {
     "name": "garrettfoister"
